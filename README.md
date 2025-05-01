@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=controlZ&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/controlZ"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 **controlZ/controlZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
